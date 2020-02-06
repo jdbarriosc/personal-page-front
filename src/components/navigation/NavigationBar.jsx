@@ -59,8 +59,9 @@ function NavigationBar() {
                     <h2>jdbarrios.com</h2>
                 </HomeLink>
                 <LinkContainer>
-                    <NavbarLinks exact to='/future-users'>About me</NavbarLinks>
-                    <NavbarLinks exact to='/users'>Projects</NavbarLinks>
+                    <NavbarLinks exact to='/'>About me</NavbarLinks>
+                    <NavbarLinks exact to='/projects'>Projects</NavbarLinks>
+                    <NavbarLinks exact to='/hobies'>Other</NavbarLinks>
                 </LinkContainer>
             </NavbarContent>
         </Navbar>
