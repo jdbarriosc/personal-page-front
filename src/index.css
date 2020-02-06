@@ -1,0 +1,16 @@
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  font-family: 'Playfair Display',serif;
+  height: 100%;
+  overflow: auto;
+  min-width: 1000px;
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,23 @@
+#home-top-info{
+    display: flex;
+    width: 1000px;
+    margin: 30px auto 0px;
+
+}
+#home-top-info-text{
+    padding: 50px;
+}
+#home-top-info-text h1{
+    font-size: 50px;
+    margin: 10px;
+    text-align: left;
+}
+#home-top-info-text h2{
+    font-size: 35px;
+    font-weight: lighter;
+    margin: 10px 10px 10px 20px;
+    text-align: justify;
+
+}
+
+
