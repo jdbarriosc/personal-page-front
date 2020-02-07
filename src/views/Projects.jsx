@@ -18,6 +18,14 @@ class Projects extends React.Component {
 
             window.open('https://github.com/jdbarriosc/SuperAndes');
         }
+        const redirectToAtPos = () => {
+
+            window.open('https://github.com/jdbarriosc/Atpos-Project');
+        }
+        const redirectToChicagoCabs = () => {
+
+            window.open('https://github.com/jdbarriosc/p3_201810');
+        }
         return (
             <div id='view'>
                 <NavigationBar />
@@ -46,6 +54,9 @@ class Projects extends React.Component {
                             <div className='projects-content-section'>
                                 <h2>
                                     ATpos (Project for university course)
+                                    <div className='projects-content-section-image'  >
+                                        <img src='/images/github.png' alt='github-link' onClick={redirectToAtPos}></img>
+                                    </div>
                                 </h2>
                                 <h3>Creation of the entire architecture, with the different software quality requirements (Availability, Ease of Modification, Performance, Security, Latency) of the ATpos platform.</h3>
                                 <h3>Position:</h3>
@@ -63,7 +74,7 @@ class Projects extends React.Component {
                                 <h2>
                                     SuperAndes (Project for university course)
                                     <div className='projects-content-section-image'  >
-                                        <img src='/images/bitbucket.png' alt='github-link' onClick={redirectToSuperAndes}></img>
+                                        <img src='/images/github.png' alt='github-link' onClick={redirectToSuperAndes}></img>
                                     </div>
                                 </h2>
                                 <h3>Creation of the entire supermarket management system.</h3>
@@ -76,6 +87,9 @@ class Projects extends React.Component {
                             <div className='projects-content-section'>
                                 <h2>
                                     Taxis of Chicago (Project for university course)
+                                    <div className='projects-content-section-image'  >
+                                        <img src='/images/github.png' alt='github-link' onClick={redirectToChicagoCabs}></img>
+                                    </div>
                                 </h2>
                                 <h3>Mapping the history of trips made by Chicago in 2016</h3>
                                 <h3>Position:</h3>
