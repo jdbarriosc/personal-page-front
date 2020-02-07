@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/personal-page-front/./static/css/main.1700c942.chunk.css",
+    "main.js": "/personal-page-front/./static/js/main.d24cdcca.chunk.js",
+    "main.js.map": "/personal-page-front/./static/js/main.d24cdcca.chunk.js.map",
+    "runtime-main.js": "/personal-page-front/./static/js/runtime-main.1e2ee99a.js",
+    "runtime-main.js.map": "/personal-page-front/./static/js/runtime-main.1e2ee99a.js.map",
+    "static/js/2.6854c6d9.chunk.js": "/personal-page-front/./static/js/2.6854c6d9.chunk.js",
+    "static/js/2.6854c6d9.chunk.js.map": "/personal-page-front/./static/js/2.6854c6d9.chunk.js.map",
+    "index.html": "/personal-page-front/./index.html",
+    "precache-manifest.d990f5bd0be75f5bfdd681c7ae4cba49.js": "/personal-page-front/./precache-manifest.d990f5bd0be75f5bfdd681c7ae4cba49.js",
+    "service-worker.js": "/personal-page-front/./service-worker.js",
+    "static/css/main.1700c942.chunk.css.map": "/personal-page-front/./static/css/main.1700c942.chunk.css.map",
+    "static/js/2.6854c6d9.chunk.js.LICENSE.txt": "/personal-page-front/./static/js/2.6854c6d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e2ee99a.js",
+    "static/js/2.6854c6d9.chunk.js",
+    "static/css/main.1700c942.chunk.css",
+    "static/js/main.d24cdcca.chunk.js"
+  ]
+}
